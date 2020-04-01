@@ -1,10 +1,4 @@
-//
-//  SceneDelegate.swift
-//  Card
-//
-//  Created by Рома on 01.04.2020.
-//  Copyright © 2020 Рома. All rights reserved.
-//
+
 
 import UIKit
 
